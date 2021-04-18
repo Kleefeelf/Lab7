@@ -2,12 +2,16 @@
 
 ## Task
 
-Craete java console application. It should contain 8 private, 2 protected and 1 static fields. 
-All of them must have getters and setters. Also class should contian method that reset values and method that convert class object to String.
-Main method initialize 3 class objects and print information about them to console.
+Craete java console application. It should contain fields from first lab table, 5 private, 2 protected and 1 static fields. 
+Create getters and setters for them. 
+Create method that resets values and method that converts class object to String.
+Craete main method and initialize 3 class objects, print information about them to console.
+
+## Technolohies
+Project was created with:
+* java 16 2021-03-16
 
 ## How to run
 
 1. Clone this repository or download code
-2. Compile Main.java
-3. Run simple console application
+2. Open terminal and write "java .\Main.java"
